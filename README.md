@@ -65,6 +65,3 @@ python enhanced_face_detection.py
 2. يوسف محمد يوسف مرعي - 2220538
 3. محمد صالح محمد عبدالفتاح - 2220383
 
-=======
-# face_detection
->>>>>>> 0a136279b641bcb0cf5061fb94e9abf3ab8f1e8c
